@@ -1,0 +1,10 @@
+{
+  "bot_1781178920155": {
+    "id": "bot_1781178920155",
+    "name": "MUKESJ 1",
+    "token": "8484907978:AAGGKeGli9dt7GRXnl5Kq1nlBMxRgldiIps",
+    "script": "bots_data/bots/bot_1781178920155/bot.py",
+    "created_at": "2026-06-11T17:25:20.163091",
+    "status": "stopped"
+  }
+}
